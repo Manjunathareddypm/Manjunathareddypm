@@ -1,5 +1,6 @@
+<h1 align="center">Hi 👋, I'm Manjunatha Reddy PM</h1>
 # 💫 About Me:
-🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on Java projects<br>🤝 I’m looking for help with BridgeLabz<br>🌱 I’m currently learning Advance Java<br>💬 Ask me about Core Java<br><h1 align="center">Hi 👋, I'm Manjunatha Reddy PM</h1>
+🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on Java projects<br>🤝 I’m looking for help with BridgeLabz<br>🌱 I’m currently learning Advance Java<br>💬 Ask me about Core Java<br><h1 align="center">
 
 
 ## 🌐 Socials:
