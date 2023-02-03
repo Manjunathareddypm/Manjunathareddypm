@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manjunatha Reddy PM</h1>
 # 💫 About Me:
-🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on Java projects<br>🤝 I’m looking for help with BridgeLabz<br>🌱 I’m currently learning Advance Java<br>💬 Ask me about Core Java<br> <h1 align="center">
+🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on Java projects<br>🤝 I’m looking for help with BridgeLabz<br>🌱 I’m currently learning Full Stack Web Development <br>💬 Ask me about Core Java<br> <h1 align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manjunathareddypm&label=Profile%20views&color=0e75b6&style=flat" alt="Manjunathareddypm" /> </p>
 
 
