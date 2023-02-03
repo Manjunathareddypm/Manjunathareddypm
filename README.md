@@ -9,7 +9,8 @@ My Linkedin : <a href="https://www.linkedin.com">Linkedin </a> <br>
 ## 📫 You can reach me: <a href="https://search.yahoo.com/search?fr=mcafee&type=E211US826G0&p=gmail">mreddypm@gmail.com</a>
   
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  <a href="https://search.yahoo.com/search?fr=mcafee&type=E211US826G0&p=java">Java</a> ]<br>      ![Shell Script(https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<a href="https://search.yahoo.com/search?fr=mcafee&type=E211US826G0&p=shell+scripting">Shell Scripting</a> <br> <a href="https://search.yahoo.com/search?fr=mcafee&type=E211US826G0&p=bridgelabz">BridgeLabz</a><br>🌱 I’m currently learning <a href="https://search.yahoo.com/search?fr=mcafee&type=E211US826G0&p=HTML">HTML</a>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  <a href="https://search.yahoo.com/search?fr=mcafee&type=E211US826G0&p=java">Java</a> <br>      
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  <a href="https://search.yahoo.com/search?fr=mcafee&type=E211US826G0&p=shell+scripting">Shell Scripting</a> <br> <a href="https://search.yahoo.com/search?fr=mcafee&type=E211US826G0&p=bridgelabz">BridgeLabz</a><br> <a href="https://search.yahoo.com/search?fr=mcafee&type=E211US826G0&p=HTML">HTML</a>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Manjunathareddypm&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Manjunathareddypm&theme=dark&hide_border=false)<br/>
