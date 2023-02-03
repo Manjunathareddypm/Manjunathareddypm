@@ -5,7 +5,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/Manjunatha-Reddy-PM) 
+  ![image](https://user-images.githubusercontent.com/117055262/216659610-92fb215f-e6d9-4963-b635-00ce155b6ed4.png)
+<a herf="https://linkedin.com/in/www.linkedin.com/in/Manjunatha-Reddy-PM">Linkedin</a> 
 ## 📫 You can reach me: <a href="https://search.yahoo.com/search?fr=mcafee&type=E211US826G0&p=gmail">mreddypm@gmail.com</a>
   
 # 💻 Tech Stack:
