@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-<a herf="https://www.linkedin.com">Linkedin.com </a> <br>
+## you can reach me : <a href="https://www.linkedin.com">Linkedin </a> <br>
 ## 📫 You can reach me: <a href="https://search.yahoo.com/search?fr=mcafee&type=E211US826G0&p=gmail">mreddypm@gmail.com</a>
   
 # 💻 Tech Stack:
